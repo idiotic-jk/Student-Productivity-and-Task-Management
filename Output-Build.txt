@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: TESTBINFU, Configuration: Debug Any CPU ------
+1>  TESTBINFU -> C:\Users\idiot\source\repos\TESTBINFU\TESTBINFU\bin\Debug\TESTBINFU.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
