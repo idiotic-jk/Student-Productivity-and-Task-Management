@@ -1,1 +1,11 @@
 # Student-Productivity-and-Task-Management
+![Screenshot 2023-08-27 191040](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/8191dddd-efbd-45ff-942a-4fea3482a9d3)
+![Screenshot 2023-08-27 191115](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/ebff056c-b848-449e-a5a7-66a327901e3e)
+![Screenshot 2023-08-27 191156](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/5bd2de95-24f4-450f-ba2f-06d4349bc59a)
+![Screenshot 2023-08-27 191217](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/f37b413b-2600-480e-89fc-5585042a1986)
+![Screenshot 2023-08-27 191237](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/3d6ce5a2-f43b-4034-bbd6-37c782bdc9dc)
+![Screenshot 2023-08-27 191255](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/f11f04f7-f6ec-4585-b5fa-b4610273a6b5)
+![Screenshot 2023-08-27 191312](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/27c8f8ca-bff4-4414-8406-cd598b3cc88a)
+![Screenshot 2023-08-27 191330](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/6844111e-3684-46a6-bdbe-6ca6ea86ce0d)
+![Screenshot 2023-08-27 191349](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/c17b4952-0755-47e4-8501-9c3c3f142be4)
+![Screenshot 2023-08-27 191406](https://github.com/idiotic-jk/Student-Productivity-and-Task-Management/assets/120502125/87ec4980-39c6-40ce-964b-0c672781ddbe)
